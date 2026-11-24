@@ -1,0 +1,371 @@
+{
+  "revision": "93efa2f097d58c2a74874c7e644dbc9b0cee75a2",
+  "decoding": "greedy, maximum 12 new tokens, full response checked",
+  "answers": {
+    "power-1-0": "1 A\n\nQuestion 10:",
+    "power-1-1": "0 J\n\nQuestion 10:",
+    "pressure-1-0": "600 N\n\nQuestion 10:",
+    "pressure-1-1": "1. 1. 2. 3.",
+    "energy-1-0": "1000 J\n\nQuestion 10",
+    "energy-1-1": "0 J\n\nQuestion 10:",
+    "power-2-0": "2 A\n\nQuestion 10:",
+    "power-2-1": "0 J\n\nQuestion 10:",
+    "pressure-2-0": "1200 N\n\nQuestion 10",
+    "pressure-2-1": "1200 N.\n\nQuestion 1",
+    "energy-2-0": "10 W\n\nQuestion 10:",
+    "energy-2-1": "0 J\n\nQuestion 10:",
+    "power-3-0": "3 A\n\nQuestion 10:",
+    "power-3-1": "0 J\n\nQuestion 10:",
+    "pressure-3-0": "1800 N\n\nQuestion 10",
+    "pressure-3-1": "1800 N.\n\nQuestion 1",
+    "energy-3-0": "15 W\n\nQuestion 10:",
+    "energy-3-1": "0 J\n\nQuestion 10:",
+    "power-4-0": "120 W\n\nQuestion 10:",
+    "power-4-1": "0 J\n\nQuestion 10:",
+    "pressure-4-0": "2400 N\n\nQuestion 10",
+    "pressure-4-1": "1. 1. 2. 3.",
+    "energy-4-0": "1000 J\n\nQuestion 10",
+    "energy-4-1": "0 J\n\nQuestion 10:",
+    "power-5-0": "100 W\n\nQuestion 10:",
+    "power-5-1": "0 J\n\nQuestion 10:",
+    "pressure-5-0": "1000 N\n\nQuestion 10",
+    "pressure-5-1": "1. 1. 2. 3.",
+    "energy-5-0": "1000 J\n\nQuestion 10",
+    "energy-5-1": "0 J\n\nQuestion 10:",
+    "power-6-0": "6 A\n\nQuestion 10:",
+    "power-6-1": "0 J\n\nQuestion 10:",
+    "pressure-6-0": "1000 N\n\nQuestion 10",
+    "pressure-6-1": "1. 1. 2. 3.",
+    "energy-6-0": "1000 J\n\nQuestion 10",
+    "energy-6-1": "0 J\n\nQuestion 10:",
+    "power-7-0": "12 A\n\nQuestion 10:",
+    "power-7-1": "0 J\n\nQuestion 10:",
+    "pressure-7-0": "1000 N\n\nQuestion 10",
+    "pressure-7-1": "1. 1. 2. 3.",
+    "energy-7-0": "1000 J\n\nQuestion 10",
+    "energy-7-1": "0 J\n\nQuestion 10:",
+    "power-8-0": "12 A\n\nQuestion 10:",
+    "power-8-1": "0 J\n\nQuestion 10:",
+    "pressure-8-0": "1000 N\n\nQuestion 10",
+    "pressure-8-1": "1. 1. 2. 3.",
+    "energy-8-0": "1000 J\n\nQuestion 10",
+    "energy-8-1": "0 J\n\nQuestion 10:",
+    "power-9-0": "12 A\n\nQuestion 10:",
+    "power-9-1": "0 J\n\nQuestion 10:",
+    "pressure-9-0": "1000 N\n\nQuestion 10",
+    "pressure-9-1": "1. 1. 2. 3.",
+    "energy-9-0": "1000 J\n\nQuestion 10",
+    "energy-9-1": "0 J\n\nQuestion 10:",
+    "power-10-0": "10 A\n\nQuestion 10:",
+    "power-10-1": "0 J\n\nQuestion 10:",
+    "pressure-10-0": "1000 N\n\nQuestion 10",
+    "pressure-10-1": "1. 1. 2. 3.",
+    "energy-10-0": "1000 J\n\nQuestion 10",
+    "energy-10-1": "0 J\n\nQuestion 10:",
+    "power-11-0": "11 A\n\nQuestion 10:",
+    "power-11-1": "0 J\n\nQuestion 10:",
+    "pressure-11-0": "1000 N\n\nQuestion 10",
+    "pressure-11-1": "1. 1. 2. 3.",
+    "energy-11-0": "1000 J\n\nQuestion 10",
+    "energy-11-1": "0 J\n\nQuestion 10:",
+    "power-12-0": "12 A\n\nQuestion 10:",
+    "power-12-1": "0 J\n\nQuestion 10:",
+    "pressure-12-0": "1000 N\n\nQuestion 10",
+    "pressure-12-1": "1. 1. 2. 3.",
+    "energy-12-0": "1000 J\n\nQuestion 10",
+    "energy-12-1": "0 J\n\nQuestion 10:"
+  },
+  "grades": [
+    {
+      "id": "power-1-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-1-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-1-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-1-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-1-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-1-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-2-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-2-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-2-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-2-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-2-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-2-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-3-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-3-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-3-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-3-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-3-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-3-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-4-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-4-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-4-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-4-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-4-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-4-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-5-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-5-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-5-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-5-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-5-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-5-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-6-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-6-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-6-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-6-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-6-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-6-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-7-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-7-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-7-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-7-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-7-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-7-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-8-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-8-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-8-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-8-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-8-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-8-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-9-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-9-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-9-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-9-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-9-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-9-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-10-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-10-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-10-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-10-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-10-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-10-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-11-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-11-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-11-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-11-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-11-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-11-1",
+      "grade": "format"
+    },
+    {
+      "id": "power-12-0",
+      "grade": "format"
+    },
+    {
+      "id": "power-12-1",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-12-0",
+      "grade": "format"
+    },
+    {
+      "id": "pressure-12-1",
+      "grade": "format"
+    },
+    {
+      "id": "energy-12-0",
+      "grade": "format"
+    },
+    {
+      "id": "energy-12-1",
+      "grade": "format"
+    }
+  ],
+  "counts": {
+    "format": 72
+  }
+}

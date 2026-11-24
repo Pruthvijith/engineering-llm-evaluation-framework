@@ -1,0 +1,26 @@
+{
+  "results": {
+    "engineering_choice": {
+      "alias": "engineering_choice",
+      "acc,none": 0.2916666666666667,
+      "acc_stderr,none": 0.06629996666059658
+    }
+  },
+  "n-samples": {
+    "engineering_choice": {
+      "original": 48,
+      "effective": 48
+    }
+  },
+  "versions": {
+    "engineering_choice": "Yaml"
+  },
+  "n-shot": {
+    "engineering_choice": 0
+  },
+  "higher_is_better": {
+    "engineering_choice": {
+      "acc": true
+    }
+  }
+}

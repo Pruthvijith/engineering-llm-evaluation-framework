@@ -1,0 +1,11 @@
+{
+  "project": "engineering-llm-evaluation-framework",
+  "pytest_passed": 13,
+  "source_statements": 139,
+  "missed_statements": 12,
+  "statement_coverage": 91.37,
+  "coverage_scope": "evaluation",
+  "mypy": "Success: no issues found in 4 source files",
+  "ruff": "check and format passed",
+  "ci": "configured; hosted run unverified"
+}

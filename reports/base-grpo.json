@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "n": 48,
+  "groups": 12,
+  "baseline_accuracy": 0.16666666666666666,
+  "candidate_accuracy": 0.22916666666666663,
+  "paired_delta_ci95": [
+    -0.10416666666666667,
+    0.25
+  ],
+  "slice_accuracy": {
+    "W": 0,
+    "Pa": 0.16666666666666666,
+    "J": 0.16666666666666666,
+    "insufficient": 0.5833333333333334
+  },
+  "gate": "hold",
+  "reasons": [
+    "candidate_accuracy_below_0.80",
+    "lower_paired_delta_below_minus_0.02",
+    "abstention_below_0.90"
+  ],
+  "failures": [
+    {
+      "id": "test-000/0",
+      "kind": "W",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-000/1",
+      "kind": "Pa",
+      "target": "A",
+      "answer": "D",
+      "regression": true
+    },
+    {
+      "id": "test-000/2",
+      "kind": "J",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-000/3",
+      "kind": "insufficient",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-001/0",
+      "kind": "W",
+      "target": "A",
+      "answer": "D",
+      "regression": true
+    },
+    {
+      "id": "test-001/1",
+      "kind": "Pa",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-001/2",
+      "kind": "J",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-002/0",
+      "kind": "W",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-002/1",
+      "kind": "Pa",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-002/2",
+      "kind": "J",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-003/0",
+      "kind": "W",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-004/0",
+      "kind": "W",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-004/1",
+      "kind": "Pa",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-004/2",
+      "kind": "J",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-005/0",
+      "kind": "W",
+      "target": "A",
+      "answer": "D",
+      "regression": true
+    },
+    {
+      "id": "test-005/1",
+      "kind": "Pa",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-005/2",
+      "kind": "J",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-006/0",
+      "kind": "W",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-006/1",
+      "kind": "Pa",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-006/2",
+      "kind": "J",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-006/3",
+      "kind": "insufficient",
+      "target": "A",
+      "answer": "D",
+      "regression": true
+    },
+    {
+      "id": "test-007/0",
+      "kind": "W",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-007/1",
+      "kind": "Pa",
+      "target": "A",
+      "answer": "D",
+      "regression": true
+    },
+    {
+      "id": "test-007/2",
+      "kind": "J",
+      "target": "A",
+      "answer": "D",
+      "regression": true
+    },
+    {
+      "id": "test-007/3",
+      "kind": "insufficient",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-008/0",
+      "kind": "W",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-008/1",
+      "kind": "Pa",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-008/2",
+      "kind": "J",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-009/0",
+      "kind": "W",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-009/1",
+      "kind": "Pa",
+      "target": "A",
+      "answer": "D",
+      "regression": true
+    },
+    {
+      "id": "test-010/0",
+      "kind": "W",
+      "target": "C",
+      "answer": "A",
+      "regression": false
+    },
+    {
+      "id": "test-010/1",
+      "kind": "Pa",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-010/2",
+      "kind": "J",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-010/3",
+      "kind": "insufficient",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-011/0",
+      "kind": "W",
+      "target": "B",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-011/2",
+      "kind": "J",
+      "target": "C",
+      "answer": "D",
+      "regression": false
+    },
+    {
+      "id": "test-011/3",
+      "kind": "insufficient",
+      "target": "A",
+      "answer": "D",
+      "regression": true
+    }
+  ],
+  "method": "paired group bootstrap; 2000 draws; seed 2026",
+  "input_sha256": {
+    "baseline": "4b710f736ede4494aeaec0d0e1815635b15ba061b41bda5fdd2bcb5e451b61d0",
+    "candidate": "4683b53c19dafd9354d675fa7e03c95e8daeed03b33c00d90b62f618c0b6b5fd"
+  }
+}

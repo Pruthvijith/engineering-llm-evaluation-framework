@@ -1,0 +1,102 @@
+{
+  "revision": "93efa2f097d58c2a74874c7e644dbc9b0cee75a2",
+  "pairs": 18,
+  "judgments": 36,
+  "oracle_agreement": 0.5,
+  "oracle_kappa": 0.0,
+  "chose_first_rate": 1.0,
+  "order_consistency": 0,
+  "ground_truth": "deterministic arithmetic oracle",
+  "observations": [
+    {
+      "id": "power-1-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "pressure-1-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "energy-1-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "power-2-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "pressure-2-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "energy-2-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "power-3-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "pressure-3-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "energy-3-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "power-4-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "pressure-4-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "energy-4-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "power-5-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "pressure-5-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "energy-5-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "power-6-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "pressure-6-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    },
+    {
+      "id": "energy-6-0",
+      "correct_first": "A",
+      "correct_second": "A"
+    }
+  ]
+}

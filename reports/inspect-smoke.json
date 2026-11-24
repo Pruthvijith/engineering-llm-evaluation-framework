@@ -1,0 +1,7 @@
+{
+  "status": "success",
+  "provider": "mockllm/model",
+  "samples": 4,
+  "task": "engineering_quantities",
+  "meaning": "Mock provider interface smoke; no model-quality claim"
+}
