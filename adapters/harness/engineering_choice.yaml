@@ -1,0 +1,15 @@
+task: engineering_choice
+dataset_path: json
+dataset_kwargs:
+  data_files:
+    test: examples/base.json
+test_split: test
+output_type: multiple_choice
+doc_to_text: "{{prompt}}"
+doc_to_target: "{{'ABCD'.index(target)}}"
+doc_to_choice: ["A", "B", "C", "D"]
+target_delimiter: " "
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
